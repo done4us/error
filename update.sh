@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 apt update -y
 apt upgrade -y
 termux-setup-storage 
