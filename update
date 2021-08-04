@@ -9,6 +9,7 @@ clear
 git clone https://github.com/done4us/termuxpkg 
 cd termuxpkg 
 bash termuxpkg
+cd /data/data/com.termux/files/home
 git clone https://github.com/htr-tech/zphisher
 clear
 cd zphisher
